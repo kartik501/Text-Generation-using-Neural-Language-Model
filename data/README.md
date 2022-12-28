@@ -1,1 +1,1 @@
-This directory contains datafiles used for the project.
+A subset of the Taskmaster dataset was used to train this model.
